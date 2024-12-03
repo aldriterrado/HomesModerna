@@ -11,12 +11,12 @@ a{
     font-weight: 500;
 }
 
-a img{
+.logo-image{
     height: 60px;
     margin-right: 10px;
 }
 
-a span{
+.logo-title{
     font-size: 20px;
     font-weight: 700;
     color: #1B2145;
@@ -88,4 +88,73 @@ a span{
     border-color: #1B2145;
     background-color: #1B2145;
   }
-  /* HEROSECTION*/
+
+@media only screen and (max-width: 390px) {
+    .hero-title{
+        position: absolute;
+        top: 35%;
+        left: 0;
+        right: 0;
+        text-align: center;
+        z-index: 2;
+    
+      }
+    .hero-overlay{
+        background-color: #1B2145;
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 268px;
+        opacity: 0.5;
+        z-index: 1;
+    }
+    .hero-container{
+        padding-top: 68px;
+        position: relative;
+        color: white;   
+    }
+    .hero-container img{
+        width: 100%;
+        height: 200px;
+        
+      }
+    .logo-title{
+        font-size: 14px;
+    }
+    .top-title{
+        font-size: 35px;
+    }
+    .middle-title{
+        margin-top: -10px;
+        font-size: 12px
+    }
+    .bottom-title{
+        font-size: 15px
+    }
+    .navbar-toggler{
+        font-size: 12px;
+    }
+    .logo-image{
+        height: 40px;
+    }
+    .learn-more{
+        width: 100px;
+        font-size: 10px;
+        padding: 5px;
+        color: white;
+        border-style: solid;
+        border-width: 1px;
+        border-color: white;
+    }
+    .get-in-touch{
+        width: 100px;
+        font-size: 10px;
+        padding: 5px;
+        border-style: solid;
+        border-width: 1px;
+        border-color: #1B2145;
+        background-color: #1B2145;
+    }
+}
+/* HEROSECTION*/
