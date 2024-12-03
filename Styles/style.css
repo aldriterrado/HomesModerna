@@ -121,6 +121,30 @@ a{
 }
 
 
+footer{
+    background-color: #1B2145;
+    height: 350px;
+}
+
+.footer-logo{
+    height: 150px;
+}
+
+.footer-container{
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-bottom-color: white;
+}
+
+.footer-icon{
+    height: 30px;
+}
+
+.copyright-icon{
+    height: 20px;
+}
+
+
 
 
 @media only screen and (max-width: 375px) {
