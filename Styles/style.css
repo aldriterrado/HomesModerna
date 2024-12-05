@@ -135,6 +135,14 @@ a{
     border-radius: 50%;
 }
 
+.ppvc-container{
+    width: 200px;
+    height: 150px;
+    padding: 10x;
+    background-color: #1B2145;
+    border-radius: 15px;
+}
+
 
 footer{
     background-color: #1B2145;
