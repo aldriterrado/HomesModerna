@@ -128,6 +128,13 @@ a{
     height: 450px;
 }
 
+.icon-container{
+    width: 100px;
+    height: 100px;
+    background-color: #1B2145;;
+    border-radius: 50%;
+}
+
 
 footer{
     background-color: #1B2145;
