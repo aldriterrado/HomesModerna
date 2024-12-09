@@ -19,7 +19,7 @@ a{
 }
 
 .logo-image{
-    height: 60px;
+    height: 120px;
     margin-right: 10px;
 }
 
@@ -142,6 +142,18 @@ a{
     background-color: #1B2145;
     border-radius: 15px;
 }
+
+.how-ppvc-container{
+    width: 300px;
+    height: 430px;
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 400px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #1B2145;
+}
+
 
 
 footer{
