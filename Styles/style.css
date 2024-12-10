@@ -140,6 +140,13 @@ a{
     border-radius: 15px;
 }
 
+.number-container{
+    width: 50px;;
+    border-radius: 50%;
+    background-color: #1B2145;
+    opacity: 30%;
+}
+
 
 
 footer{
