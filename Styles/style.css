@@ -326,6 +326,14 @@ footer{
         font-size: 12px !important;
     }
 
+    .card-container{
+        padding: 10px !important;
+    }
+
+    .project-image{
+        padding: 0 !important;
+    }
+
 }
 
 @media only screen and (min-width: 425px) and (min-width: 430px) and (max-width: 460px) {
@@ -480,6 +488,14 @@ footer{
 
     .footer-right-text{
         font-size: 12px !important;
+    }
+
+    .card-container{
+        padding: 10px !important;
+    }
+
+    .project-image{
+        padding: 0 !important;
     }
 
 }
