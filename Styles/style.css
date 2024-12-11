@@ -334,6 +334,14 @@ footer{
         padding: 0 !important;
     }
 
+    .contact-title{
+        text-align: center !important;
+    }
+    
+    .contact-container{
+        margin-top: 2px !important;
+    }
+
 }
 
 @media only screen and (min-width: 425px) and (min-width: 430px) and (max-width: 460px) {
@@ -496,6 +504,14 @@ footer{
 
     .project-image{
         padding: 0 !important;
+    }
+
+    .contact-title{
+        text-align: center !important;
+    }
+    
+    .contact-container{
+        margin-top: 2px !important;
     }
 
 }
